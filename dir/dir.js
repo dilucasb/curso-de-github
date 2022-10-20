@@ -1,1 +1,0 @@
-console.log("pe duro novo na área");
